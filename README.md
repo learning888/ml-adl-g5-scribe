@@ -5,10 +5,10 @@
 ## Caveat
 
 Éstas notas se enfocan en ~re~reforzar diversos aspectos relacionados a la implementación de algoritmos y/o aspectos teóricos sobre éstos.
-
+<h1 style="color:tomato">PERO NO SUBSTITUYEN LA LECTURA Y EL DESAFIO!</h1>
 ## Colaboración
 
-Se invita a los alumnos a corregir detalles de éstos. Soy humano y me puedo equivocar :)
+Se invita a los alumnos a corregir detalles de las lecturas. Soy humano y me puedo equivocar :)
 
 ## Syllabus
 
@@ -33,9 +33,9 @@ Se invita a los alumnos a corregir detalles de éstos. Soy humano y me puedo equ
 
 Constantemente haré referencias a bibliografía sobre aspectos más teóricos o específico de los algoritmos. Alguno de los libros (con libre acceso al pdf) más mencionados serán:
 
-[Shalev-Shwartz, S., & Ben-David, S. (2014). Understanding machine learning: From theory to algorithms. Cambridge university press.](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
-[Efron, B., & Hastie, T. (2016). Computer age statistical inference (Vol. 5). Cambridge University Press.](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
-[Friedman, J., Hastie, T., & Tibshirani, R. (2001). The elements of statistical learning (Vol. 1, No. 10). New York: Springer series in statistics.](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+* [Shalev-Shwartz, S., & Ben-David, S. (2014). Understanding machine learning: From theory to algorithms. Cambridge university press.](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+* [Efron, B., & Hastie, T. (2016). Computer age statistical inference (Vol. 5). Cambridge University Press.](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
+* [Friedman, J., Hastie, T., & Tibshirani, R. (2001). The elements of statistical learning (Vol. 1, No. 10). New York: Springer series in statistics.](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
 El resto de los libros que mencionaré se pueden encontrar en línea ("pero no lo apoyo"). De manera alternativa, me pueden pedir una copia :)
 
