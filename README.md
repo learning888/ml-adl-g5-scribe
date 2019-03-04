@@ -5,7 +5,7 @@
 ## Caveat
 
 Éstas notas se enfocan en ~re~reforzar diversos aspectos relacionados a la implementación de algoritmos y/o aspectos teóricos sobre éstos.
-<h1 style="color:tomato">PERO NO SUBSTITUYEN LA LECTURA Y EL DESAFIO!</h1>
+<h1 style="color:tomato;">PERO NO SUBSTITUYEN LA LECTURA Y EL DESAFIO!</h1>
 ## Colaboración
 
 Se invita a los alumnos a corregir detalles de las lecturas. Soy humano y me puedo equivocar :)
