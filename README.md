@@ -12,7 +12,7 @@ Se invita a los alumnos a corregir detalles de las lecturas. Soy humano y me pue
 
 ## Syllabus
 
-* [Regularización Ridge, Lasso y Elastic Net](./lec-1)    
+* [Regularización Ridge, Lasso y Elastic Net](./lec-1/)    
 * [Expansiones Basales - GAM](./lec-2)    
 * [Naive Bayes - Algoritmos Generativos - Tokenización de Textos - Lectura Batch de Archivos](./lec-3)    
 * [Análisis Lineal Discriminante](./lec-4)    
