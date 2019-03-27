@@ -4,9 +4,6 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from sklearn.tree import DecisionTreeRegressor
-from sklearn.metrics import mean_squared_error, median_absolute_error, r2_score
-from sklearn.model_selection import train_test_split, GridSearchCV
 
 
 def identify_object_type_variables(df):
@@ -65,10 +62,10 @@ def plot_feature_importance(fit_model, feat_names):
     # plot
     plt.barh(
         # given range and features
-        range(len(feat_names), tmp_importance[sort_importance])
+        range(len(feat_names)), tmp_importance[sort_importance]
     )
     # add axis labels identifying attribute name
-    plt.yticks(range(len(feat_names)), 
+    plt.yticks(range(len(feat_names)),
                names, rotation=0)
 
 
